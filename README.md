@@ -4,8 +4,6 @@ How many significant strikes is one takedown worth on each UFC judge's scorecard
 
 Every UFC decision from January 2017 to August 2026. 7,002 judge scorecards. 13 judges with 120 or more cards.
 
-![Judge Takedown Index scorecard](results/judge_takedown_index_scorecard.png)
-
 ## Results
 
 League average: one takedown is worth about 1.65 significant strikes of credit, holding control time constant.
