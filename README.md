@@ -58,10 +58,6 @@ Confidence intervals come from 400 bootstrap resamples of each judge's cards. A 
 
 Fight and scorecard data comes from ufcstats.com through the open scrape maintained at [Greco1899/scrape_ufc_stats](https://github.com/Greco1899/scrape_ufc_stats). Fonts in the graphic are Barlow and Permanent Marker, downloaded at runtime from the Google Fonts repository.
 
-## About
-
-12-6 Combat Research Lab works at the intersection of fight data, statistics and machine learning. This is the first public drop.
-
 ## License
 
 MIT
